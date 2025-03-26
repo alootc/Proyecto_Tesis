@@ -1,0 +1,26 @@
+<dependencies>
+  <compile
+      roots="E:\pistoladesoldadura\pistoladesoldadura\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="E:\pistoladesoldadura\pistoladesoldadura\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="E:\pistoladesoldadura\pistoladesoldadura\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:E:\pistoladesoldadura\pistoladesoldadura\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,:unityandroidpermissions:@aar,:openxr_loader:@aar,E:\pistoladesoldadura\pistoladesoldadura\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="E:\pistoladesoldadura\pistoladesoldadura\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:E:\pistoladesoldadura\pistoladesoldadura\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:E:\pistoladesoldadura\pistoladesoldadura\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name=":unityandroidpermissions:@aar"
+        simpleName=":unityandroidpermissions"/>
+    <dependency
+        name=":openxr_loader:@aar"
+        simpleName=":openxr_loader"/>
+    <dependency
+        name="E:\pistoladesoldadura\pistoladesoldadura\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>

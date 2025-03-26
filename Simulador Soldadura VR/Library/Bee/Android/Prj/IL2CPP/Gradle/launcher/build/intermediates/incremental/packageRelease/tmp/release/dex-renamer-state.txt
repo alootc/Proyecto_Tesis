@@ -1,0 +1,4 @@
+#Wed Mar 12 11:16:37 COT 2025
+base.0=E\:\\pistoladesoldadura\\pistoladesoldadura\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

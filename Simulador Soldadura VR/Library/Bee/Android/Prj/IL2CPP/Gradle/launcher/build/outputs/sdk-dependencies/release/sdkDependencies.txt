@@ -1,0 +1,40 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "unityandroidpermissions"
+  }
+  digests {
+    sha256: "\304\275\200/\267\017\253\2569\233,4\201\275\362\370\021i,\2045\246\3123t\313N\032\270\017h\272"
+  }
+}
+library {
+  maven_library {
+    artifactId: "openxr_loader"
+  }
+  digests {
+    sha256: "\341\v\311M\267$P\235\353\227W\000\370\0208f^\255\361\001\355\247M\2573\322\256\235$\306Y\302"
+  }
+}
+library {
+  digests {
+    sha256: "\006\310d\342\373\005G\023\030w\200\274\313\203O\"*\036bt\364\373\036T\320\347;\347~uW\207"
+  }
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 1
+  dependency_index: 2
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}
